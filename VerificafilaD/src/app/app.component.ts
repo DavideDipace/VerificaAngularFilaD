@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'VerificafilaD';
+
+  end : string
+  macchina(colore : HTMLInputElement, porte : HTMLInputElement, cambio : HTMLInputElement): boolean
+
+  this.end = 
 }
